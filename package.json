@@ -1,0 +1,30 @@
+{
+  "name": "weekly-commit-tracker",
+  "version": "1.0.0",
+  "description": "CLI tool to generate weekly reports from GitHub commits",
+  "main": "index.js",
+  "bin": {
+    "commit-tracker": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "bamiogunfemi",
+  "keywords": [
+    "github",
+    "cli",
+    "commit",
+    "tracker",
+    "report"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.5",
+    "moment": "^2.29.4",
+    "ora": "^5.4.1",
+    "yargs": "^17.7.1"
+  }
+}
