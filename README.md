@@ -1,8 +1,5 @@
 # Weekly Commit Tracker
 
-<p align="center">
-  <img src="https://via.placeholder.com/200x200?text=weekly-commit-tracker" alt="weekly-commit-tracker Logo" width="200" height="200">
-</p>
 
 <p align="center">
   <b>Automate your weekly work updates from GitHub commits</b>
@@ -11,7 +8,6 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/weekly-commit-tracker"><img src="https://img.shields.io/npm/v/weekly-commit-tracker" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/weekly-commit-tracker"><img src="https://img.shields.io/npm/dm/weekly-commit-tracker" alt="npm downloads"></a>
-  <a href="https://github.com/yourusername/weekly-commit-tracker/blob/main/LICENSE"><img src="https://img.shields.io/github/license/bamiogunfemi/weekly-commit-tracker" alt="license"></a>
 </p>
 
 ---
