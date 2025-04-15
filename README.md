@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/weekly-commit-tracker"><img src="https://img.shields.io/npm/v/weekly-commit-tracker" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/weekly-commit-tracker"><img src="https://img.shields.io/npm/dm/weekly-commit-tracker" alt="npm downloads"></a>
 </p>
 
 ---
